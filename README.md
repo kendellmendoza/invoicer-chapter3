@@ -1,6 +1,6 @@
 Securing DevOps's invoicer
 ==========================
-
+ 
 A simple REST API that manages invoices.
 
 This is the code for Chapter 3 of Securing DevOps. It contains the code and
